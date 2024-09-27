@@ -64,5 +64,55 @@
         "download_url": "https://github.com/pioarduino/python-portable/raw/main/python-portable-darwin_arm64-1.31107.0.tar.gz"
       }
     ]
+  },
+  "versions": {
+    "name": "1.31107.0",
+    "unpacked_size": 35836976,
+    "files": [
+      {
+        "name": "python-portable-windows_amd64-1.31107.0.tar.gz",
+        "size": 13760796,
+        "checksum": {
+          "sha256": "e7aedee044dd3dc597cd4519be4f1b570d05213ddedf56a1d02e777353a471c2"
+        },
+        "system": [
+          "windows_amd64"
+        ],
+        "download_url": "https://github.com/pioarduino/python-portable/raw/main/python-portable-windows_amd64-1.31107.0.tar.gz"
+      },
+      {
+        "name": "python-portable-darwin_x86_64-1.31107.0.tar.gz",
+        "size": 19514642,
+        "checksum": {
+          "sha256": "384387fc8554c9e649dd101b972fee7ea1333fa1b7ff2db6e642d11afd409495"
+        },
+        "system": [
+          "darwin_x86_64"
+        ],
+        "download_url": "https://github.com/pioarduino/python-portable/raw/main/python-portable-darwin_x86_64-1.31107.0.tar.gz"
+      },
+      {
+        "name": "python-portable-windows_x86-1.31107.0.tar.gz",
+        "size": 13136661,
+        "checksum": {
+          "sha256": "22164acc9536d154746d461819d856e9c98c5749d3de2b2d10faed90232bfb2e"
+        },
+        "system": [
+          "windows_x86"
+        ],
+        "download_url": "https://github.com/pioarduino/python-portable/raw/main/python-portable-windows_x86-1.31107.0.tar.gz"
+      },
+      {
+        "name": "python-portable-darwin_arm64-1.31107.0.tar.gz",
+        "size": 30995169,
+        "checksum": {
+          "sha256": "783e063f102ebab843bcede7654cac27f4313225586bd20c0294f3d242f98aff"
+        },
+        "system": [
+          "darwin_arm64"
+        ],
+        "download_url": "https://github.com/pioarduino/python-portable/raw/main/python-portable-darwin_arm64-1.31107.0.tar.gz"
+      }
+    ]
   }
 }
